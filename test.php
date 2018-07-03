@@ -1,6 +1,4 @@
 <?php
 
-<php>
-<php>
-
+$init = curl_init();
 ?>
